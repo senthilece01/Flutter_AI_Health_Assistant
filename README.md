@@ -8,9 +8,7 @@
 
 - 💬 **AI Chat Assistant**: Ask health-related questions and get AI-generated responses via Gemini API.
 - 🤒 **Symptom Analysis**: Describe your symptoms and receive insights into possible conditions.
-- 📆 **Health Tracker**: Log temperature, symptoms, and health status over time.
 - 🧘 **Personalized Wellness Tips**: Daily AI-curated suggestions for a healthier lifestyle.
-- 🔒 **Privacy-Focused**: Health data is handled securely and can remain local to the device.
 - 📱 **Cross-platform Support**: Runs smoothly on both Android and iOS.
 
 ---
