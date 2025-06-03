@@ -7,4 +7,4 @@ const String typeQuestionHere = 'Type your question here...';
 
 const String chatBotPath = 'assets/images/chatbot.jpg';
 
-const String GEMINI_API_KEY = 'AIzaSyA7S3PRWWwav456RP10PoOWMoRGIhKkGW8';
+const String GEMINI_API_KEY = 'your_gemini_api_key_here';
