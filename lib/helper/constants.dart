@@ -6,3 +6,5 @@ const String failedLoadResponse = 'Failed to load response';
 const String typeQuestionHere = 'Type your question here...';
 
 const String chatBotPath = 'assets/images/chatbot.jpg';
+
+const String GEMINI_API_KEY = 'AIzaSyA7S3PRWWwav456RP10PoOWMoRGIhKkGW8';

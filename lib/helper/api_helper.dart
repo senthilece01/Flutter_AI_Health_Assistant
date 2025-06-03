@@ -1,9 +1,11 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
+import 'constants.dart';
+
 class APIHelper {
   static const apiUrl =
-      'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyA7S3PRWWwav456RP10PoOWMoRGIhKkGW8';
+      'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GEMINI_API_KEY';
 
   static Future<http.Response> callGoogleAPI(String message) async {
     return http.post(
