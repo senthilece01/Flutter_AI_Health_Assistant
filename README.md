@@ -37,7 +37,7 @@ cd Flutter_AI_Health_Assistant
 flutter pub get
 ```
 
-3. GEMINI API Key
+3. Update GEMINI API Key in constants.dart
 
 ```bash
 GEMINI_API_KEY=your_gemini_api_key_here
